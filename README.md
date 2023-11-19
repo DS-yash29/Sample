@@ -1,3 +1,3 @@
 # Sample
 This is a sample repository i have created to understand git & github <br>
-Author - Yash Matlani
+Author - Yash Matlani (Data Sc.)
